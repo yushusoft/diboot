@@ -6,7 +6,7 @@
 - [看视频了解 Diboot](https://www.bilibili.com/video/BV17P4y1p7L4) 
 - [了解 Diboot内核如何做到高性能](https://www.bilibili.com/video/BV1tL411p7CD)
 
-# diboot - 基础组件化繁为简，高效工具以简驭繁
+# diboot - 基础组件化繁为简，高效工具以简驭繁【演示】
 <hr>
 <p align="center">
     <a href="http://www.apache.org/licenses/LICENSE-2.0.html" target="_blank">
